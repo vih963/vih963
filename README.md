@@ -9,7 +9,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.rocketseat.com.br%2Fc-sharp-e-dot-net-uma-combinacao-poderosa%2F&psig=AOvVaw1bhIxADu1c5H2Lkode-K-v&ust=1724342903077000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD6zYm8hogDFQAAAAAdAAAAABAE)">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fpulse%2Fc-linguagem-das-pr%25C3%25B3ximas-d%25C3%25A9cadas-leonardo-dorathoto-&psig=AOvVaw1bhIxADu1c5H2Lkode-K-v&ust=1724342903077000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD6zYm8hogDFQAAAAAdAAAAABAJ">
 </div>
  
 <br> 
