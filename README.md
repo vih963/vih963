@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="C#" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgilbarbara%2Flogos%2Fissues%2F336&psig=AOvVaw011d8uBdyu39tcYcjj2QQC&ust=1724343147521000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODxvIS9hogDFQAAAAAdAAAAABAE">
+ <img align="center" alt="C#" height="30" width="40" src="https://user-images.githubusercontent.com/19507241/64484929-d4b1cd80-d236-11e9-8bbe-1872b473bd64.png">
 </div>
  
 <br> 
