@@ -3,12 +3,14 @@
 <p dir="auto">Sou o Vinicius Camargo, um desenvolvedor apaixonado por tecnologia!</p>
 <p dir="auto">Esse será meu cantinho de estudos, onde vou mergulhar nos conteúdos, me atualizar e crescer cada dia mais!</p>
 <ul dir="auto">
+<br>
 
  <div>
    <a href="https://github.com/vih963">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vih963&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vih963&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>    
+</div>  
+     <br>
     Languages and Tools:
  </p>
 <br>
