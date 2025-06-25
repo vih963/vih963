@@ -17,6 +17,10 @@
 </p>
   <img src="https://skillicons.dev/icons?i=react,typescript,angular,html,css">
 <br>
+<li><strong>Back-end</strong>:</li>
+</ul>
+<img src="https://skillicons.dev/icons?i=nodejs">
+
 
 <br>
 </div>
