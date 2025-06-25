@@ -12,7 +12,8 @@
 </div>
 <br>
 
-    Languages and Tools:
+<li><strong>Front-end</strong>:</li>
+</ul>
 </p>
   <img src="https://skillicons.dev/icons?i=react,typescript,angular,html,css">
 <br>
