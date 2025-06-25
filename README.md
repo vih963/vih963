@@ -19,6 +19,7 @@
 <br>
 <li><strong>Back-end</strong>:</li>
 </ul>
+</p>
 <img src="https://skillicons.dev/icons?i=nodejs">
 
 
