@@ -15,7 +15,7 @@
 <li><strong>Front-end</strong>:</li>
 </ul>
 </p>
-<img src="https://skillicons.dev/icons?i=react,typescript,angular,html,css">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,angular,vscode">
 <ul>
 <li><strong>Back-end</strong>:</li>
 </ul>
