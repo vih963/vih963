@@ -11,12 +11,12 @@
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-anderson-camargo-0b886184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<ul>
+<ul dir="auto">
 <li><strong>Front-end</strong>:</li>
 </ul>
 </p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,angular,vscode">
-<ul>
+<ul dir="auto">
 <li><strong>Back-end</strong>:</li>
 </ul>
 </p>
